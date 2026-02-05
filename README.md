@@ -1,3 +1,3 @@
-# digital-fundamentals - hueta
-Для заданий по ОЦТ
-## *Gorelov pidorasina*
+# digital-fundamentals(hueta)
+Для заданий по ОЦТ с любовью к России представляется:
+## *Gorelov pidorasina💜*
